@@ -1,0 +1,2 @@
+completed_shell: completed_shell.c
+	gcc -o completed_shell completed_shell.c -I.
